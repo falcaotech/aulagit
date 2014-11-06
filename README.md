@@ -32,4 +32,4 @@ Curso ofertado pela escola **[School Of Net](http://www.schoolofnet.com/)**
     $ git commit -m "commit inicial"
 
 10 - Enviando os arquivos para o repositório no GitHub
-    $ git pull --all
+    $ git push --all
