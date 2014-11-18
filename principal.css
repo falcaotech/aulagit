@@ -1,0 +1,19 @@
+﻿@charset "utf-8";
+
+body {
+		background:#CCC;
+	}
+	#container {
+		width:960px;
+		margin:auto;
+		background:#FFF;
+		height:100%;
+	}
+	h1, h2 {
+		margin:10px;
+		font-weight:bold;
+	}
+	p {
+		margin:10px;
+	}
+
