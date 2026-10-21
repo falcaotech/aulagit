@@ -1,4 +1,4 @@
-#Repositório AulaGit
+#Repositório Traqueamento
 
 Este repositório foi criado com finalidade didática proposta pelo exercício prático do módulo de Git do curso **Trilhando o caminho com PHP**. 
 Curso ofertado pela escola **[School Of Net](http://www.schoolofnet.com/)**
@@ -9,11 +9,11 @@ Curso ofertado pela escola **[School Of Net](http://www.schoolofnet.com/)**
 
 02 - Clonamos o repositório criado no computador, "repositório local"
 
-    $ git clone git@github.com:falcaotech/aulagit.git
+    $ git clone git@github.com:falcaotech/Traqueamento.git
 
 03 - Navegando até a pasta onde será criada a pasta do repositório master local
 
-    $ cd d:/sites/aulagit
+    $ cd d:/sites/Traqueamento
 
 04 - Criando o arquivo README.md
 
